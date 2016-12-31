@@ -14,8 +14,9 @@ filetype plugin indent on    " required
 
 " color scheme of the moment:
 syntax on
-let g:airline_theme='behelit'
+let g:airline_theme='powerlineish'
 let g:airline#extensions#tabline#enabled = 1
+let g:airline_powerline_fonts = 1
 set number
 set encoding=utf-8
 set relativenumber 
