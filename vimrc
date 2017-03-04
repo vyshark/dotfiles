@@ -9,6 +9,7 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'mileszs/ack.vim'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'vim-scripts/bash-support.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
