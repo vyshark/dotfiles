@@ -26,10 +26,13 @@ echo "...done"
 for file in $files; do
 
 	case $file  in
-		roficonfig)
+		rofi-config)
 			destination="~/.config/rofi/config"
 			;;
 
+		i3-config)
+			destination="~/.config/i3/config"
+			;;
 
 		*)destination="~/.$file"
 			;;
