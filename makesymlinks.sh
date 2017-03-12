@@ -40,6 +40,6 @@ for file in $files; do
 		esac    # --- end of case ---
 	    echo "Moving any existing dotfiles from ~ to $olddir"
 	        mv $destination  ~/dotfiles_old/
-		    echo "Creating symlink to $file in home directory."
+		    echo "Creating symlink to $file in $destination directory."
 		        ln -s $dir/$file $destination
 		done
