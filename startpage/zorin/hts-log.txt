@@ -1,0 +1,11 @@
+HTTrack3.48-22 launched on Tue, 21 Mar 2017 19:02:02 at https://zorinos.com/start/
+(httrack https://zorinos.com/start/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.48-22 mirror complete in 43 seconds : 9 links scanned, 8 files written (168105 bytes overall), no files updated [2785 bytes received at 64 bytes/sec], 1.2 requests per connection
+(No errors, 0 warnings, 0 messages)

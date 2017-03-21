@@ -239,7 +239,7 @@ bar {
  bindsym XF86AudioPrev exec playerctl previous
 #exec qmenu_registrar
 #wallpaper
-exec_always --no-startup-id feh --randomize --bg-scale /home/vyshark/Pictures/wallpapers/*
+exec_always --no-startup-id feh --randomize --bg-scale /home/vyshark/Pictures/wallpapers/fehwallpaper1.jpg
 #rofi
 
 bindsym $mod+d exec rofi -show drun 
