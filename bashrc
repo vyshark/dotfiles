@@ -37,6 +37,9 @@ source /etc/profile.d/autojump.bash
 # Command found in this package
 source /usr/share/doc/pkgfile/command-not-found.bash
 
+# Load TMUX on start of a shell
+#[[ -z "$TMUX" ]] && exec tmux
+
 #-------- Color Manpages
 export LESS_TERMCAP_mb=$'\E[01;31m'             # begin blinking
 export LESS_TERMCAP_md=$'\E[01;31m'             # begin bold
@@ -59,4 +62,5 @@ transfer() {
     rm -f $tmpfile;
 }
 alias transfer=transfer
+alias hgrep="history | grep"
 shopt -s checkwinsize
