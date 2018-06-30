@@ -5,6 +5,6 @@ An Incremental backup of my config files.
 - nerd-fonts
 - vundle
 ## Last look
-[[https://github.com/vysharki/dotfiles/blob/master/ss.png|alt=octocat]]
+[[https://github.com/vysharki/dotfiles/blob/master/ss.png]]
 
 
