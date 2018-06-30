@@ -5,7 +5,7 @@ An Incremental backup of my config files.
 - nerd-fonts
 - vundle
 ## Last look
-[dotfiles/ss.png]
+(dotfiles/ss.png)
 
 
 
